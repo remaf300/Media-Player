@@ -1,19 +1,23 @@
 # Media Player (Mar 30, 2026)
-I made a media player in c++. Basically, you can add mp3 files in the app and read them by creating a playlist.
+A custom media player built from scratch in C++ using Qt. It allows users to import MP3 files, manage track metadata (artist, song name, album, and cover art), and organize them into custom playlists.
 
-## What does the app can do?
-You can add mp3 files (specify the artist, the song name, the album and the cover). All the files that you add will create a playlist that you can listen to. You can play on shuffle, play the next and previous songs.
+## Features
+- **Import & Metadata:** Add MP3 files and specify or view track details (artist, title, album, cover art).
+- **Playlist Management:** Automatically organizes imported files into a playable queue.
+- **Playback Controls:** Play, pause, skip to the next/previous track, and toggle shuffle mode.
 
-### 1. Adding a new song
+## Preview
+
+### 1. Add a New Song
 <img src="Assets/Images/add_song.gif" width="300">
 
-### 2. Play a song
+### 2. Play a Song
 <img src="Assets/Images/play_song.gif" width="300">
 
 ## Watch the Video
-You can watch a devlog/video I made about it (in French):
+You can watch a devlog/video I made about this project (in French):
 [Watch on YouTube](https://youtu.be/76g6QEE7_yM?si=fN6qPx7Spqb1l2n0)
 
-## Download
-You can test the application by downloading the MediaPlayerBuild folder.
-MediaPlayerProject folder contains the Qt project (Qt version 6.0.2).
+## Download & Source Code
+- **Build:** You can test the application by downloading the `MediaPlayerBuild` folder.
+- **Source Code:** The `MediaPlayerProject` folder contains the Qt project files (built with Qt version 6.0.2).
