@@ -1,5 +1,5 @@
 # Media Player (Mar 30, 2026)
-A remake of the first level of Super Mario Bros., reimagined with a much higher difficulty.
+I made a media player in c++. Basically, you can add mp3 files in the app and read them by creating a playlist.
 
 ## What does the app can do?
 You can add mp3 files (specify the artist, the song name, the album and the cover). All the files that you add will create a playlist that you can listen to. You can play on shuffle, play the next and previous songs.
