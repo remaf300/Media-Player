@@ -7,7 +7,7 @@ A custom media player built from scratch in C++ using Qt. It allows users to imp
 - **Playback Controls:** Play, pause, skip to the next/previous track, and toggle shuffle mode.
 
 ## Preview
-| ### 1. Add a New Song | ### 2. Play a Song |
+| 1. Add a New Song | 2. Play a Song |
 | :---: | :---: |
 | <img src="Assets/Images/add_song.gif" width="300"> | <img src="Assets/Images/play_song.gif" width="300">
 
